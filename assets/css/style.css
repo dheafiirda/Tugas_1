@@ -1,0 +1,8 @@
+.separator{
+	height: 80px;
+}
+
+.thumbnail-rounded{
+	border-radius: 100px;
+	width: 100px;
+}
